@@ -2,9 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://alexandry-augustin.github.io/</link>
+    <link>http://alexandryaugustin.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://alexandry-augustin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="http://alexandryaugustin.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
