@@ -5,11 +5,7 @@
     <link>https://alexandry-augustin.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://alexandry-augustin.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://alexandry-augustin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cv</title>
       <link>https://alexandry-augustin.github.io/cv/</link>
