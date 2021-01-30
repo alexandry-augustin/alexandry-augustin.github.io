@@ -23,6 +23,7 @@ body {
   color: #212121;
   background-color: #FFFFFF;
   /*font-family: Merriweather, Georgia, serif;*/
+  /*font-family: "Times New Roman", Times, serif;*/
   font-family: Georgia, serif;
   font-size: 1.6em;
   font-weight: 300;
@@ -49,7 +50,9 @@ h4,
 h5,
 h6 {
   /*font-family: Lato, Helvetica, sans-serif;*/
-  font-family: Helvetica, sans-serif;
+  /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: Georgia, serif;
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
@@ -281,7 +284,9 @@ img.emoji {
       font-size: 1.8rem;
       color: #212121;
       /*font-family: Lato, Helvetica, sans-serif;*/
-      font-family: Helvetica, sans-serif;
+      /*font-family: Helvetica, sans-serif;*/
+      /*font-family: "Times New Roman", Times, serif;*/
+      font-family: Georgia, serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
@@ -346,7 +351,9 @@ img.emoji {
     display: inline;
     font-size: 1.6rem;
     /*font-family: Lato, Helvetica, sans-serif;*/
-    font-family: Helvetica, sans-serif;
+    /*font-family: Helvetica, sans-serif;*/
+    /*font-family: "Times New Roman", Times, serif;*/
+    font-family: Georgia, serif;
     font-weight: 700;
     line-height: 6.0rem;
     color: #212121; }
@@ -423,7 +430,9 @@ img.emoji {
   margin-top: 6.0rem;
   text-align: center;
   /*font-family: Lato, Helvetica, sans-serif; }*/
-  font-family: Helvetica, sans-serif; }
+  /*font-family: Helvetica, sans-serif; }*/
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: Georgia, serif;
   .pagination li {
     display: inline;
     text-align: center;
