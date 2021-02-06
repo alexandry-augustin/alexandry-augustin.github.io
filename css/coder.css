@@ -426,6 +426,12 @@ img.emoji {
     .navigation i:hover, .navigation i:focus {
       color: #1565c0; }
 
+.inline-svg {
+  display: inline-block;
+  width: 2.75rem;
+  top: 0rem;
+  position: relative; }
+
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
@@ -455,12 +461,6 @@ img.emoji {
   margin-bottom: 1.0rem; }
   .footer a {
     color: #1565c0; }
-
-.inline-svg {
-  display: inline-block;
-  width: 2.75rem;
-  top: 0rem;
-  position: relative; }
 
 .section-separator
 {
